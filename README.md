@@ -131,6 +131,7 @@ Questions:
 ---> Adaptive: Adapting to changes in requirements or environment
 ---> Perfective: Improving performance, usability, and functionality
 ---> preventive: Preventing future problems through refactoring and optimization
+
 >>> Why Maintenance is Essential:
 ---> Ensures software remains reliable and efficient
 ---> Adapts to changing user needs and requirements
