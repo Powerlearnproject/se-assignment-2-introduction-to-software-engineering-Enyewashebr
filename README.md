@@ -16,7 +16,7 @@ Questions:
 4. Implementation:This is the coding phase, where the software is built based on the design specifications.
 5. Testing:The software is thoroughly tested to ensure it meets the specified requirements and to identify and fix any defects.
 6. Deployment:The software is released to the end-users or the production environment.
- Maintenance:This phase involves monitoring the software's performance, fixing any issues that arise, and making updates or enhancements as needed.
+7. Maintenance:This phase involves monitoring the software's performance, fixing any issues that arise, and making updates or enhancements as needed.
 
 
 ## Agile vs. Waterfall Models:Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
